@@ -1,0 +1,8 @@
+site_name: Awesome Kerbal Space Program
+site_url: https://ipaulo.github.io/awesome-ksp
+site_description: A curated list of awesome Kerbal Space Program stuff
+site_author: Paul Phillabaum
+repo_url: https://github.com/ipaulo/awesome-ksp
+google_analytics: ['UA-538075-2', 'auto']
+pages:
+  - "Fly to the Mun": "README.md"
